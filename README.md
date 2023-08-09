@@ -1,7 +1,7 @@
 # N-puzzle-game
 
 <p align="center">
-  <img src="N.jpeg" alt="Image Description" width="500" height="300">
+  <img src="N.png" alt="Image Description" width="500" height="300">
 </p>
 
 
